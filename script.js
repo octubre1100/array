@@ -1,7 +1,7 @@
 let colores = ["rojo", "azul" , "amarrillo","verde", "fucsia"]
 console.log (colores)
 console.log (colores[0])
-console.log (colores[colores.lenght - 1])
+console.log (colores[colores.length - 1])
 console.log (colores.length)
 colores.push("naranja")
 console.log (colores)
